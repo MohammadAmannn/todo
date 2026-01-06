@@ -1,0 +1,5 @@
+{
+  "name": "Secure Todo RBAC Application",
+  "description": "A full-stack style Todo application with advanced Role-Based Access Control (RBAC), featuring user authentication, admin dashboards, and task management using React, Tailwind CSS, and a simulated MongoDB/Express backend.",
+  "requestFramePermissions": []
+}
